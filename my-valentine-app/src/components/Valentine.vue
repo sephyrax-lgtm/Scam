@@ -42,7 +42,7 @@
     <transition name="fade">
       <div v-if="showLove" class="message-container">
         <p class="response">You just made my heart smile 💕</p>
-        <p class="response">Ps: Samy a pris ma play du coup je n'ai rien faire bref je t'aime 💕</p>
+        <p class="response">Ps: Samy a pris ma play du coup je n'ai rien a faire bref je t'aime 💕</p>
       </div>
     </transition>
 
