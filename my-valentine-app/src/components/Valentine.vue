@@ -107,7 +107,7 @@ export default {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: url('public/IMG_3699.jpeg') center/cover no-repeat;
+  background: url('/IMG_3699.jpeg') center/cover no-repeat;
   filter: brightness(0.6);
   z-index: -1;
 }
